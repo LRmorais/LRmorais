@@ -1,6 +1,6 @@
-### Olá, me chamo Lucas 😄. Graduando em engenharia da computação, pesquisador no centro de excelência em eficiência energéica da amazônia ⚡. Buscando cada vez mais conhecimento em tecnologias, principalmente relacionadas a desenvolvimento web e mobile. Full stack developer 🌱
-# Link do meu Linkdin: https://www.linkedin.com/in/lrmorais/
-# Instagram : https://www.instagram.com/_.lmorais/
+## Olá, me chamo Lucas 😄. Graduando em engenharia da computação, pesquisador no centro de excelência em eficiência energéica da amazônia ⚡. Buscando cada vez mais conhecimento em tecnologias, principalmente relacionadas a desenvolvimento web e mobile. Full stack developer 🌱
+### Link do meu Linkdin: https://www.linkedin.com/in/lrmorais/
+### Instagram : https://www.instagram.com/_.lmorais/
 <!--
 **LRmorais/LRmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
