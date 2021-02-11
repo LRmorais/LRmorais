@@ -2,6 +2,6 @@
 #### 💼 Linkdin : https://www.linkedin.com/in/lrmorais/
 #### 🤳 Instagram : https://www.instagram.com/_.lmorais/
 
-  [![Lucas Morais github stats](https://github-readme-stats.vercel.app/api?username=LRmorais&show_icons=true)](https://github.com/brunopulis/github-readme-stats)
+  [![Lucas Morais github stats](https://github-readme-stats.vercel.app/api?username=LRmorais)](https://github.com/brunopulis/github-readme-stats)
 
 
