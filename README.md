@@ -11,9 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRmorais&hide=java,objective-c&layout=compact&theme=dracula" />
 </a>
 
-[![Lucas Morais github stats](https://github-readme-stats.vercel.app/api?username=LRmorais&show_icons=true&theme=dracula)](https://github.com/brunopulis/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LRmorais&hide=java,objective-c&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
