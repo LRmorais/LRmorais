@@ -42,6 +42,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LRmorais&hide=stars&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=fe428e&disable_animations=false&custom_title=Lucas Morais GitHub Stats" alt="GitHub Stats" title="GitHub Stats" width="440px"  />
 </p>
 
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LRmorais&theme=dracula&border=fe428e" alt="Streak" title="Streak" width="440px" />
+</p>
+
 
 
 
