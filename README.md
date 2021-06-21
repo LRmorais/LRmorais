@@ -1,3 +1,5 @@
+## About Me
+
 ### Olá, me chamo Lucas 😄. Graduando em engenharia da computação, pesquisador no centro de excelência em eficiência energéica da amazônia ⚡ e Desenvolvedor Mobile jr na empresa Gazeta do Povo. Buscando cada vez mais conhecimento em tecnologias, principalmente relacionadas a desenvolvimento web e mobile.
 
 
@@ -21,6 +23,11 @@
   <!-- <img src="https://img.shields.io/badge/-AmazonAWS-090909?style=flat-square&logo=amazon-aws&logoColor=336791" alt="AWS" /> -->
   <img src="https://img.shields.io/badge/-PHP-090909?style=flat-square&logo=PHP&logoColor=336791" alt="PHP" />
 </p>
+
+## Reach Me Out
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lrmorais/)](https://www.linkedin.com/in/renata-psantos/)
+[![Gmail Badge](https://img.shields.io/badge/-renataps.360@gmail.com-EA4635?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.morais23ti@gmail.com)](mailto:{seu email})
 
 
 #### 💼 Linkdin : https://www.linkedin.com/in/lrmorais/
