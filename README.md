@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-MySQL-090909?style=flat-square&logo=MySQL&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-090909?style=flat-square&logo=PostgreSQL&logoColor=336791" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-AmazonAWS-090909?style=flat-square&logo=amazon-aws&logoColor=336791" alt="AWS" />
-  <img src="https://img.shields.io/badge/-PowerBI-090909?style=flat-square&logo=power-bi&logoColor=336791" alt="PHP" />
+  <img src="https://img.shields.io/badge/-PowerBI-090909?style=flat-square&logo=PHP&logoColor=336791" alt="PHP" />
 </p>
 
 
