@@ -1,6 +1,5 @@
 ### Olá, me chamo Lucas 😄. Graduando em engenharia da computação, pesquisador no centro de excelência em eficiência energéica da amazônia ⚡ e Desenvolvedor Mobile jr na empresa Gazeta do Povo. Buscando cada vez mais conhecimento em tecnologias, principalmente relacionadas a desenvolvimento web e mobile.
 
-![Snake animation](https://github.com/LRmorais/kooler-monitoramento-frontend/blob/output/github-contribution-grid-snake.svg)
 
 ## My Skills
 
@@ -20,7 +19,7 @@
   <img src="https://img.shields.io/badge/-MySQL-090909?style=flat-square&logo=MySQL&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-090909?style=flat-square&logo=PostgreSQL&logoColor=336791" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-AmazonAWS-090909?style=flat-square&logo=amazon-aws&logoColor=336791" alt="AWS" />
-  <img src="https://img.shields.io/badge/-PowerBI-090909?style=flat-square&logo=power-bi&logoColor=336791" alt="PowerBI" />
+  <img src="https://img.shields.io/badge/-PowerBI-090909?style=flat-square&logo=power-bi&logoColor=336791" alt="PHP" />
 </p>
 
 
