@@ -34,13 +34,6 @@
 
 ### 🛠️ GitHub Stats
 
-<a href="https://github.com/LRmorais?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LRmorais&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/LRmorais">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRmorais&hide=java,objective-c&layout=compact&theme=dracula" />
-</a>
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRmorais&hide=java,objective-c&layout=compact&theme=dracula&border_color=fe428e&langs_count=10" alt="Top Languages" title="Top Languages" width="440px" />
 </p>
