@@ -28,7 +28,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lrmorais/)](https://www.linkedin.com/in/lrmorais/)
 [![Gmail Badge](https://img.shields.io/badge/-lucas.morais23ti@gmail.com-EA4635?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.morais23ti@gmail.com)](mailto:lucas.morais23ti@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/lrmorais/)](https://www.linkedin.com/in/renata-psantos/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-Red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.lmorais/)](https://www.instagram.com/_.lmorais)
 
 
 
