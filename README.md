@@ -13,7 +13,7 @@
  <!--  <img src="https://img.shields.io/badge/-Flutter-090909?style=flat-square&logo=Flutter&logoColor=02569B" alt="Flutter" /> -->
   <img src="https://img.shields.io/badge/-Git-090909?style=flat-square&logo=Git&logoColor=F05032" alt="Git" />
  <!-- <img src="https://img.shields.io/badge/-Python-090909?style=flat-square&logo=Python&logoColor=3776AB" alt="Python" />  -->
-  <img src="https://img.shields.io/badge/-R-090909?style=flat-square&logo=r&logoColor=3776AB" alt="r" />
+ <!-- <img src="https://img.shields.io/badge/-R-090909?style=flat-square&logo=r&logoColor=3776AB" alt="r" /> -->
   <img src="https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=Docker&logoColor=2496ED" alt="Docker" />
  <!--  <img src="https://img.shields.io/badge/-MongoDB-090909?style=flat-square&logo=MongoDB&logoColor=47A248" alt="MongoDB" /> -->
   <img src="https://img.shields.io/badge/-MySQL-090909?style=flat-square&logo=MySQL&logoColor=4479A1" alt="MySQL" />
