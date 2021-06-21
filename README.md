@@ -32,10 +32,6 @@
 
 
 
-
-#### 💼 Linkdin : https://www.linkedin.com/in/lrmorais/
-#### 🤳 Instagram : https://www.instagram.com/_.lmorais/
-
 ### 🛠️ GitHub Stats
 
 <a href="https://github.com/LRmorais?tab=repositories">
@@ -44,6 +40,14 @@
 <a href="https://github.com/LRmorais">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRmorais&hide=java,objective-c&layout=compact&theme=dracula" />
 </a>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRmorais&layout=compact&theme=dracula&border_color=fe428e&langs_count=10" alt="Top Languages" title="Top Languages" width="440px" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LRmorais&hide=stars&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_color=fe428e&disable_animations=false&custom_title=GitHub Stats" alt="GitHub Stats" title="GitHub Stats" width="440px"  />
+</p>
 
 
 
