@@ -27,7 +27,7 @@
 ## Reach Me Out
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lrmorais/)](https://www.linkedin.com/in/renata-psantos/)
-[![Gmail Badge](https://img.shields.io/badge/-renataps.360@gmail.com-EA4635?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.morais23ti@gmail.com)](mailto:{seu email})
+[![Gmail Badge](https://img.shields.io/badge/-lucas.morais23ti@gmail.com-EA4635?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.morais23ti@gmail.com)](mailto:{lucas.morais23ti@gmail.com})
 
 
 #### 💼 Linkdin : https://www.linkedin.com/in/lrmorais/
