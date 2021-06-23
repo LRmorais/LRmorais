@@ -36,7 +36,7 @@
 ### 🛠️ GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRmorais&hide=java,objective-c&layout=compact&theme=dracula&border_color=fe428e&langs_count=10" alt="Top Languages" title="Top Languages" width="440px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRmorais&hide=shell,blade,java,objective-c&layout=compact&theme=dracula&border_color=fe428e&langs_count=10" alt="Top Languages" title="Top Languages" width="440px" />
 </p>
 
 <p align="center">
