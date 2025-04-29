@@ -1,6 +1,6 @@
 ## About Me
 
-### Olá, me chamo Lucas 😄. Sou um Engenheiro da Computação em formação pela Universidade Federal do Pará (UFPA) e atualmente faço parte da equipe de desenvolvedores da empresa TechLead IT Solutions, atuando como Analista de Sistemas Jr. Também colaboro com os projetos de sistemas do Clube Gazeta do Povo como Desenvolvedor Full Stack.
+### Olá, me chamo Lucas 😄. Sou um Engenheiro da Computação em formação pela Universidade Federal do Pará (UFPA) e atualmente faço parte da equipe de desenvolvedores da empresa TechLead IT Solutions, atuando como Analista de Sistemas Pleno. Também colaboro com os projetos de sistemas do Clube Gazeta do Povo como Desenvolvedor Full Stack.
 
 ![Snake animation](https://github.com/LRmorais/LRmorais/blob/output/github-contribution-grid-snake.svg)
 
